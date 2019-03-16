@@ -29,6 +29,9 @@ We will understand why GANs matter today, and how do we train them. We will also
 
 Reinforcement Learning is paving the path to true AI. ML covered until this topic was in Supervised and Unsupervised Learning, but their true potential would be realized through RL.
 
+## Running environment:
+**<a href="https://colab.research.google.com/">Google-Colab</a>**
+
 # Credits
 - <a href="https://inkers.ai/eip3/">https://inkers.ai/eip3/</a>
 - <a href="https://hmkcode.github.io/ai/backpropagation-step-by-step/">HMKCODE</a>
