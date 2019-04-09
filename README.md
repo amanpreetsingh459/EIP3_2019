@@ -28,5 +28,5 @@ Reinforcement Learning is paving the path to true AI. ML covered until this topi
 
 # Credits
 - <a href="https://inkers.ai/eip3/">https://inkers.ai/eip3/</a>
-- <a href="https://hmkcode.github.io/ai/backpropagation-step-by-step/">HMKCODE on GitHub</a>
-- <a href="https://github.com/raghakot/keras-resnet">raghakot on GitHub</a>
+- <a href="https://hmkcode.github.io/ai/backpropagation-step-by-step/">HMKCODE</a>
+- <a href="https://github.com/raghakot/keras-resnet">raghakot</a>
